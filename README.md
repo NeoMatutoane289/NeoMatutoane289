@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeoMatutoane289
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on making a change ro our daily lives 
 - 📫 How to reach me (+27 60 351 8383) (Matutoaneneo9@gmail.com)
 - 😄 Pronouns: Am as healthy as Vitamin C
