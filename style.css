@@ -1,0 +1,34 @@
+#mainHeader {
+    background: navy;
+    text-align: center;
+}
+
+#mHeader {
+    color:white;
+    font-weight: bolder;
+    width: 600px;
+    height: 20px;
+}
+
+#text1 {
+    text-align: left;
+    color: white;
+}
+
+
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+}
+
+#mainContent {
+    text-align: center;
+    height: 0px;
+    padding-top: 0px;
+}
+
+button{
+    width: 200px;
+}
